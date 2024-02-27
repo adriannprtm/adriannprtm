@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**adriannprtm/adriannprtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tentang Saya:
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa prodi D4-Teknik Informatika POLBAN.
 
-Here are some ideas to get you started:
+Kepakaran:
+HTML dan CSS
+PHP
+LARAVEL
+C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pendidikan:
+SDN 1 Malakasari
+SMPN 1 Katapang
+SMKN 1 Katapang
+Politeknik Negeri Bandung
+
+Proyek yang saya kerjakan:
+Pembuatan website spp
+Frontend Valiant
+
+Menghubungi saya:
+Email -> adriansasmita2@gmail.com
+LinkedIn: https://www.linkedin.com/in/adrian-pratama-6a5094237/ 
